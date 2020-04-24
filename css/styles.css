@@ -1,0 +1,95 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+  }
+
+  .btn1 {
+background: #3D94F6;
+background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+height: 0px;
+line-height: 0px;
+color: #FFFFFF;
+font-family: Open Sans;
+width: 200px;
+font-size: 40px;
+font-weight: 800;
+padding: 34px;
+box-shadow: 1px 1px 20px 0px #000000;
+-webkit-box-shadow: 1px 1px 20px 0px #000000;
+-moz-box-shadow: 1px 1px 20px 0px #000000;
+text-shadow: 1px 1px 20px #000000;
+border: solid #337FED 1px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+    }
+    
+    .btn1:hover {
+border: solid #0B2279 1px;
+background: #124D90;
+background-image: -webkit-linear-gradient(top, #124D90, #0A2E68);
+background-image: -moz-linear-gradient(top, #124D90, #0A2E68);
+background-image: -ms-linear-gradient(top, #124D90, #0A2E68);
+background-image: -o-linear-gradient(top, #124D90, #0A2E68);
+background-image: linear-gradient(to bottom, #124D90, #0A2E68);
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+text-decoration: none;
+    }
+
+    .top-container{
+        background-color: #dae1e7;
+    }
+
+    .menue{
+        float: right;
+    }
+
+    .song{
+text-align: center;
+    }
+
+    .box {
+        width: 30%;
+        margin: 100px auto 50px auto;
+        border-style: solid;
+        border-color: white;
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(219, 219, 219, 1);
+        -moz-box-shadow: 0px 0px 5px 0px rgba(219, 219, 219, 1);
+        box-shadow: 0px 0px 5px 0px rgba(219, 219, 219, 1);
+        border-radius: 15px;
+      }
+
+      .img1{
+          width: 300px;
+          height: 300px;
+          position: absolute;
+          top: 350px;
+          left:200px;
+      }
+
+      pre{
+          font-size: 16px;
+      }
+
+      .logo{
+          background-color: #dae1e7;
+      }
+
+    .bottom-container{
+        text-align: center;
+        padding-top: 75px;
+        padding-bottom: 75px;
+        background-color: #27496d;
+    }
